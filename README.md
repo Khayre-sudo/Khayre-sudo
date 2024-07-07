@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Khayre-sudo
+- 👀 I’m interested in 3d geometries creation algorithms & 🔢pure_math code
+- 🌱 I’m currently learning 🐍PyQt5 and 📊Pandas
+- ---------------- - - - -qsd-qs-d-- -  -- - - - - - -- - - -- ------------- - - -DSD
